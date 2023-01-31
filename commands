@@ -1,0 +1,11 @@
+To connect with Jenkins:
+
+	java -jar jenkins.war --httpPort=8080
+
+To create a jenkins node:
+
+	Create a jenkins node with Launch directoy as "C:\Users\SAKTBV\OneDrive - Capgemini\Desktop\Codes\Jenkins"
+	Copy the link for agent jar and paste it in browswe to download agent.jar file
+	Run the file using the command from the Jenkins portal 
+	
+	
